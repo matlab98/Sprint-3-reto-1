@@ -10,22 +10,7 @@ html {
 * {
     position: relative;
   }
-  
-  .sampler {
-    padding: 1em;
-    width: 20em;
-    height: 18em;
-    border: 5px solid;
-    display: flex;
-    background: #f7f7f7;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 7px 7px lightgrey;
-    transition: box-shadow 0.1s;
-  }
-  .sampler.highlight {
-    box-shadow: 0px 0px 20px 5px gray;
-  }
+ 
   
   .bottom-plate,
   .top-plate {
